@@ -1,0 +1,21 @@
+name: xarray
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - pathlib
+  - nbconvert
+  - nbformat
+  - jupyter_client
+  - ipykernel
+  - nbsphinx
+  - sphinx_rtd_theme
+  - sphinx
+  - doctr
+  - scipy
+  - zarr
+  - dask
+  - distributed
+  - netcdf4
+  - python-graphviz
+  - pooch
